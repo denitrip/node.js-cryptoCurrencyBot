@@ -1,0 +1,17 @@
+{
+  "name": "crypto-bot",
+  "version": "1.0.0",
+  "description": "crypto currency bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Puchko",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.22.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
